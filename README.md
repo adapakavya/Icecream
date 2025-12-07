@@ -6,7 +6,7 @@ It highlights handcrafted, natural, and fresh flavours with a simple, elegant, a
 ---
 
 ## 🌐 Live Demo
-🔗 **Website Link:** https://adapakavya.github.io/scoopice/
+🔗 **Website Link:** https://adapakavya.github.io/Icecream/
 
 ---
 
@@ -31,4 +31,4 @@ The website focuses on simplicity, natural food values, and a visually appealing
 
 ---
 
-## 📁 Folder Structure
+
